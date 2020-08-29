@@ -1,0 +1,2 @@
+# memopy_LP_renewal
+以前作ったメモピーのLPのブラッシュアップ
